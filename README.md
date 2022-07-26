@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-soobin&layout=compact)](https://github.com/jo-soobin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-soobin&layout=compact&show_icons=true&theme=dracula)](https://github.com/jo-soobin/github-readme-stats)
 
 </div>
 
