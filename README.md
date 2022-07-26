@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-soobin)](https://github.com/anuraghazra/github-readme-stats)
 ![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-soobin&count_private=true)
 
 <!--
