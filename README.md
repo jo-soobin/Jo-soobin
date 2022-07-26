@@ -7,6 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-soobin&layout=compact&show_icons=true&theme=dracula)](https://github.com/jo-soobin/github-readme-stats)
 
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 </div>
 
 <!--
