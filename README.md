@@ -6,7 +6,6 @@
   
 ![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-soobin&count_private=true&show_icons=true&theme=dracula)
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{jo-soobin}1212%2Fhit-counter)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
