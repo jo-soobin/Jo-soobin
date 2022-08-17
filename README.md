@@ -5,9 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-soobin&layout=compact&show_icons=true&theme=dracula)](https://github.com/jo-soobin/github-readme-stats)
   
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=waterclean101&theme=dark)](https://github.com/jo-soobin/leetcode-stats)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=algosoo)](https://solved.ac/algosoo/)
-
+ 
 ![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-soobin&count_private=true&show_icons=true&theme=dracula)
 
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
